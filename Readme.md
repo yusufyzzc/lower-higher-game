@@ -1,6 +1,6 @@
 # 🔼 Lower-Higher Game (Python Console)
 
-A fun and simple Python console game where the player guesses which of two entities has more followers on social media. Inspired by the classic "Higher Lower" game format!
+A fun and simple Python console game where the player guesses which of two entities has more followers on social media. Inspired by the classic "Higher Lower" game format
 
 ## How to Play
 
